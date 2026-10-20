@@ -1,0 +1,6 @@
+{
+  "name": "Ascent Habit & Career KPI Engine",
+  "description": "Focused tracking system for daily nutrition, early routines, knee muscle balance, YouCode briefs, desk focus, smoke-free streaks, weekend ServiceNow and ACSP study blocks, and personal finance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
